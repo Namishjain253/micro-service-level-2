@@ -19,3 +19,5 @@ If everything goes well, you can access the following services at given location
 
 ## In case you find a bug/suggested improvement for Movie Catalog
 The [issue tracker](https://github.com/enesoral/Movie-Catalog/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
+
+## For Movie API - You need to Register over https://www.themoviedb.org/ and Create Project then you got your movieDb Api.
