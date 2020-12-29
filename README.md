@@ -2,7 +2,6 @@
 
 This repository was initially created to demonstrate how to split sample Spring application into microservices.
 To achieve that goal we use some technologies 
-from the [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) technology stack. Followed course is [microservices tutorial](https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas) of Java Brains. Thanks a lot to Koushik Kothagal and [Java Brains](https://javabrains.io/) for this awesome course!
 
 ## Understanding Movie Catalog application
 
